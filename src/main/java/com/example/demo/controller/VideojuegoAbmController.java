@@ -34,11 +34,4 @@ public class VideojuegoAbmController {
 		return "redirect:/";
 	}
 	
-	
-	
-	
-	
-	
-	
-
 }
